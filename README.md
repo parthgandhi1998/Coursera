@@ -1,8 +1,8 @@
 # IBM Data Science Professional Certificate
 
-##Find out all my projects and files associated with this certificate course here.
+## Find out all my projects and files associated with this certificate course here.
 
-Courses from this program:
+Courses from this program and their objectives:
 
 1. What is Data Science?
 
